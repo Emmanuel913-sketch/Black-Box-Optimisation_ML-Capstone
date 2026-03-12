@@ -35,7 +35,7 @@ Each notebook documents a different function, optimisation strategy, or experime
 • 	Analyse convergence behaviour and sample efficiency
 • 	Document findings through reproducible Jupyter notebooks
 
-# Key Concepts
+## Key Concepts
 Black‑Box Optimisation
 Optimising a function without explicit knowledge of its internal structure.
 Surrogate Modelling
