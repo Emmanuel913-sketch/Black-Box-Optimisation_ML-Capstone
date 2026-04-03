@@ -35,15 +35,19 @@ Each notebook documents a different function, optimisation strategy, or experime
 • 	Analyse convergence behaviour and sample efficiency
 • 	Document findings through reproducible Jupyter notebooks
 
+# Resipository Contents
+- BBO Capstone Project.ipynb: These are the main Jupyter Notebooks containing the full code from Function 1 - Function 8. Also, ipynb files include the weekly_capstone_feedback.ipynb file for the weekly run after receiving the functions outputs.
+- Datasheet for the BBO data set: this is the documention detailing the creation, composition, intended use and any information of any preprocessing of the data set - https://github.com/Emmanuel913-sketch/Black-Box-Optimisation_ML-Capstone/edit/main/README.md#:~:text=Datasheet%20for%20my%20BBO%20capstone%20project
+- Model Card: This is a summary of the machine learning model, its limitations and perfomance metrics. This is also details Transperacy, ethics and accountability considerations - 
 ## Key Concepts
-Black‑Box Optimisation
+Black‑Box Optimisation - Baysian Optimisation
 Optimising a function without explicit knowledge of its internal structure.
 Surrogate Modelling
 Building an approximate model (e.g., RBF, Gaussian Process) to guide search.
 
 Exploration vs Exploitation
   Balancing sampling new regions vs refining known promising areas.
-  UCB (Upper Confidence Bound)
+  UCB (Upper Confidence Bound) vs Expected Improvement as acquisition functions
   A strategy that selects points based on predicted value + uncertainty.
 
 ## Technologies Used
