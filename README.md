@@ -51,7 +51,9 @@ Exploration vs Exploitation
   A strategy that selects points based on predicted value + uncertainty.
 
 ## Technologies Used
-• 	Python
+• 	Jupyter Note books
+•   Pytorch
+•   Python
 • 	NumPy
 • 	SciPy
 • 	Scikit‑Learn
