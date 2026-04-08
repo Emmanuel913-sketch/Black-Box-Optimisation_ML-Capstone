@@ -90,3 +90,7 @@ Each notebook includes:
 • 	Convergence plots
 • 	Comparative performance metrics
 These results demonstrate how ML‑based optimisation can outperform naive search on complex, multimodal functions.
+
+## Using this Repository
+Having a go at this project for a hands-on exploration, the zipped Data folder contains all recorded inputs and outputs, and the Notebooks files contain all the executable analyses and experiments. If running notebooks, ensure that any configurable function number is updated to match the specific black-box function of interest.
+These materials aim to document not only the final results, but the full reasoning process behind them, also showing realistic optimisation under uncertainty (Black box) rather than a static or an idealised solution.
